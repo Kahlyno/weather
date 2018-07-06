@@ -1,0 +1,43 @@
+  244  git init
+  245  git add README.md
+  246  git commit -m "first commit"
+  247  git remote add origin https://github.com/Kahlyno/Carl-Akrong.git
+  248  git push -u origin master
+  250  git init
+  251  git add README.md
+  252  git commit -m "first commit"
+  253  git remote add origin https://github.com/Kahlyno/Carl-Akrong.git
+  254  git push -u origin master
+  255  git remote add origin https://github.com/Kahlyno/Carl-Akrong.git
+  256  git push -u origin master
+  257  git --version
+  258  git clone https://github.com/Kahlyno/ClassBook2018.git
+  263  git pull oringin master
+  265  git pull origin master
+  266  git pullhttps://github.com/Kahlyno/ClassBook2018.git
+  267  git pull https://github.com/Kahlyno/ClassBook2018.git
+  268  git pull https://github.com/glblcd/ClassBook2018.git
+  274  git pull https://github.com/glblcd/ClassBook2018.git
+  294  git status
+  295  git add Carl_Akrong.jpg 
+  296  git status
+  297  git commit -m "I added my picture."
+  298  git commit -m "I added my picture"
+  299  git config --global user.email "karlino_16@hotmail.com"
+  300  git config --global user.name "kahlyno"
+  301  git commit -m "I added my picture"
+  302  git log
+  303  git push
+  310  git clone https://github.com/Kahlyno/weather.git
+  318  git status
+  319  git add Get_Weather.py
+  320  git add .
+  329  git status
+  330  git commit -a -m "First commit"
+  331  git status
+  332  git
+  333  cd .git
+  338  git remote -v
+  339  git push
+  340  history 100 | grep git
+  341  history 100 | grep git > git-commands.txt
